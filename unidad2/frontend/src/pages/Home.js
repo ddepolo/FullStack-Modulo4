@@ -1,5 +1,5 @@
 import React from 'react';
-import MuestraBurgers from '../components/funciones';
+import {MuestraBurgers} from '../components/funciones';
 import '../styles/home.css';
 
 
